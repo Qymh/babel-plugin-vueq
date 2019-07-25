@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-vueq",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
     "lint": "eslint *.js",
@@ -9,6 +9,10 @@
     "test": "jest --coverage",
     "test:dev": "jest --coverage --watchAll",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 1"
+  },
+  "author": {
+    "name": "Qymh",
+    "email": "415570450@qq.com"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
