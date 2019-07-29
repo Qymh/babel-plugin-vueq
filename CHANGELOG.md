@@ -1,3 +1,12 @@
+## [1.1.2](https://github.com/Qymh/babel-plugin-vueq/compare/v1.1.1...v1.1.2) (2019-07-29)
+
+
+### Features
+
+* add q-theme ([d8ad68b](https://github.com/Qymh/babel-plugin-vueq/commit/d8ad68b))
+
+
+
 ## [1.1.1](https://github.com/Qymh/babel-plugin-vueq/compare/v1.1.0...v1.1.1) (2019-07-29)
 
 
