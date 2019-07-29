@@ -50,3 +50,13 @@ it('defualt with specifier', () => {
   expect(code).toMatch(/vueq-mobile-ui\/dist\/packages\/QButton\.js/);
   expect(code).toMatch(/vueq-mobile-ui\/dist\/css\/QButton\.css/);
 });
+
+it('no css', () => {
+  const template = `
+    import {QCol} from 'vueq-mobile-ui'
+  `;
+
+  const { code } = babel.transform(template, { plugins: [plugin] });
+  expect(code).toMatch(/vueq-mobile-ui\/dist\/packages\/QCol\.js/);
+  expect(code).not.toMatch(/vueq-mobile-ui\/dist\/css\/QCol\.css/);
+});
