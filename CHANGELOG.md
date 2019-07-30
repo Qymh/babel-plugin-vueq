@@ -1,3 +1,12 @@
+## [1.1.3](https://github.com/Qymh/babel-plugin-vueq/compare/v1.1.2...v1.1.3) (2019-07-30)
+
+
+### Features
+
+* delete q-row q-col ([f9669fd](https://github.com/Qymh/babel-plugin-vueq/commit/f9669fd))
+
+
+
 ## [1.1.2](https://github.com/Qymh/babel-plugin-vueq/compare/v1.1.1...v1.1.2) (2019-07-29)
 
 
