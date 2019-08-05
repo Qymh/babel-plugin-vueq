@@ -1,3 +1,12 @@
+## [1.1.4](https://github.com/Qymh/babel-plugin-vueq/compare/v1.1.3...v1.1.4) (2019-08-05)
+
+
+### Features
+
+* cancel ignore for q-theme ([cbfd63d](https://github.com/Qymh/babel-plugin-vueq/commit/cbfd63d))
+
+
+
 ## [1.1.3](https://github.com/Qymh/babel-plugin-vueq/compare/v1.1.2...v1.1.3) (2019-07-30)
 
 
