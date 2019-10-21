@@ -1,3 +1,12 @@
+## [1.1.5](https://github.com/Qymh/babel-plugin-vueq/compare/v1.1.4...v1.1.5) (2019-10-21)
+
+
+### Features
+
+* add q-col ([17cc92d](https://github.com/Qymh/babel-plugin-vueq/commit/17cc92d))
+
+
+
 ## [1.1.4](https://github.com/Qymh/babel-plugin-vueq/compare/v1.1.3...v1.1.4) (2019-08-05)
 
 
